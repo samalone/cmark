@@ -1,0 +1,5 @@
+module CMark {
+       header "cmark.h"
+       link "cmark"
+       export *
+}
